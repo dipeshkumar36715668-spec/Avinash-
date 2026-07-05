@@ -1,0 +1,6 @@
+{
+  "name": "MoodPin AI",
+  "description": "An elegant Pinterest-style mood boarding app with collaborative boards, AI-powered style recommendations, and an asset marketplace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
